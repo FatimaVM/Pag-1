@@ -1,0 +1,81 @@
+body{
+    background-color: #bdded9;
+}
+.center{
+    display: block;
+    width: 300px;
+    margin-right: 300px;
+    margin-left: 540px;
+    
+}
+.left{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 500px;
+}
+titulo{
+font-family: 'Vollkorn', serif;
+font-size: 60px;
+margin-left: auto;
+margin-right: auto;
+
+}
+ti{
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input:focus{
+    outline:4px #BBDEFB;
+}
+table{
+    margin-left: 350px;
+    background-color: pink;
+    color: black;
+    text-align: center;
+     width: 600px;"
+}
+pad{
+    margin-left: auto;
+    margin-right: 100px;
+}
+table1{
+    margin-left: 250px;
+    background-color: pink;
+    color: black;
+    text-align: center;
+     width: 600px;"
+}
+th{
+    color: #E74C3C;
+}
+
+ham{
+    color: #E74C3C;
+    font-family: 'Poppins', sans-serif;
+}
+ta{
+    color: #E74C3C;
+    font-family: 'Poppins', sans-serif;
+}
+si{
+    color: #E74C3C;
+    font-family: 'Poppins', sans-serif;
+}
+pi{
+    color: #E74C3C;
+    font-family: 'Poppins', sans-serif;
+}
+pa{
+    color: #E74C3C;
+    font-family: 'Poppins', sans-serif;
+}
+pink{
+    color: purple;
+}
+green{
+    color: green;
+}
